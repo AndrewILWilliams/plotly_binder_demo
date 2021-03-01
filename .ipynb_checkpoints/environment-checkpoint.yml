@@ -1,0 +1,10 @@
+name: c5_aopp
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - matplotlib
+  - numpy
+  - scipy
+  - plotly
+prefix: /opt/anaconda3/envs/c5_aopp
